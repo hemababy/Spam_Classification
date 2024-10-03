@@ -23,9 +23,6 @@ The project includes implementations of three machine learning models:
 ├── results/
 │   └── confusion_matrix_plots/  # Saved confusion matrix plots
 │   └── metrics/                 # Saved metrics reports (accuracy, FPR, etc.)
-├── src/
-│   ├── common_functions.py      # Common functions for data loading and evaluation
-│   └── feature_engineering.py   # Feature transformation (bag-of-words, TF-IDF)
 ├── README.md                    # This README file
 ├── requirements.txt             # List of required Python packages
 └── LICENSE                      # License for this project
