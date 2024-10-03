@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Please cite this project as follows:
+Hemalatha Sekar. (2024). Spam Classification. Retrieved from https://github.com/hemababy/Spam_Classification.git
+type: software
+title: Spam Classification.
+authors:
+- family: Sekar
+  given: Hemalatha
+
+license: MIT
+version: 1.0
+date-released: 2024-10-03
